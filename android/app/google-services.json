@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912377772430",
+    "firebase_url": "https://imagegal-ec410.firebaseio.com",
+    "project_id": "imagegal-ec410",
+    "storage_bucket": "imagegal-ec410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912377772430:android:129d68c68bcb6c16b24cdf",
+        "android_client_info": {
+          "package_name": "com.example.imagegallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912377772430-clrj8rjdogj5tou5f1rfpa9atv5ihepi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwpmIEOAVLHR0BbNeiYdnGyWg1nKPORE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912377772430-clrj8rjdogj5tou5f1rfpa9atv5ihepi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
